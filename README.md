@@ -1,5 +1,5 @@
 # awesome-uwp
-Awesome UWP resources - inspired by [https://github.com/quozd/awesome-dotnet](awesome-dotnet).
+Awesome UWP resources - inspired by [Awesome .NET](https://github.com/quozd/awesome-dotnet).
 
 Contributions are welcome - any kind of library/software/resource is accepted. The goal is the same as the other lists': build a community-driven collection of resources.
 
