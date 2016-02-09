@@ -31,9 +31,11 @@ Contributions are welcome - any kind of library/software/resource is accepted. T
 * [Template 10](https://github.com/Windows-XAML/Template10) - Template 10 is a set of Visual Studio project templates. They sling-shot developer productivity by getting ~80% of the boilerplate stuff delivered in the template - things like navigation, suspension, and even a Hamburger control. 
 
 ## UI Library
+* [Adaptive Trigger Library](https://github.com/Herdo/AdaptiveTriggerLibrary) - Adaptive Trigger Library is another powerful collection of state triggers. It brings many interesting triggers such as latitude and longitude triggers, altitute trigger, power supply trigger, orientation trigger and more.
 * [Comet](https://github.com/nmetulev/comet) - Comet is an open source library for .NET/XAML Universal Windows Apps that attempts to fill the gaps and provide a collection of APIs and controls based on the feedback and work from the developer community. 
 * [Groves](https://github.com/tomzorz/Groves) - Groves is an open source UWP library containing Fake Markup Extensions, a better CollectionViewSource and other cool tidbits.
 * [Official XAML Behaviors](https://github.com/Microsoft/XamlBehaviors) - XAML Behaviors is an easy-to-use means of adding common and reusable interactivity to your Windows UWP applications with minimal code. It is available for both native and managed applications.
+* [WindowsStateTriggers](https://github.com/dotMorten/WindowsStateTriggers) - WindowsStateTriggers is a collection of custom visual state triggers, including triggers such as DeviceFamilyStateTrigger, NetworkConnectionStateTrigger, RegexStateTrigger and more.
 
 # Other Awesome Lists
 Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
