@@ -16,6 +16,7 @@ Contributions are welcome - any kind of library/software/resource is accepted. T
 
 ## Generic Library
 * [MyToolkit for .NET](https://github.com/MyToolkit/MyToolkit) - MyToolkit is a set of .NET libraries containing lots of useful classes for various .NET platforms like UWP/WinRT (Universal Windows Apps), Windows Phone and WPF. The goal is to provide missing or replace existing classes to support the development of high-quality Windows and Windows Phone applications.
+* [WinUX UWP](https://github.com/jamesmcroft/WinUX-UWP-Toolkit) - WinUX is a collection of XAML controls, value converters, behaviors, visual state triggers, extensions designed for use in UWP projects.
 
 ## IoT Library
 * [BMP085 (I2C) .NET](https://github.com/baget/BMP085Dotnet) - An Universal (UWP) .NET library for BMP085 Sensor
