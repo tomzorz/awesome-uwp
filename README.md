@@ -40,6 +40,7 @@ Contributions are welcome - any kind of library/software/resource is accepted. T
 * [UWP Helpers](https://github.com/LanceMcCarthy/UwpProjects) - A set of custom (e.g. BusyIndicators) and improved (e.g. AdaptiveGridView, NetworkImage) UI controls and specific-function utilities (e.g. IncrementalLoadingCollection) for building UWP apps.
 
 ## XAML Controls
+* [ExpanderUWP](https://github.com/deanchalk/ExpanderUWP) - Expander Control for Microsoft UWP
 
 # Other Awesome Lists
 Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
