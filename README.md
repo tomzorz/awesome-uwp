@@ -10,6 +10,7 @@ Contributions are welcome - any kind of library/software/resource is accepted. T
     * [MVVM](#mvvm)
     * [Template](#template)
     * [UI Library](#ui-library)
+    * [XAML Controls](#xaml-controls)
 
 ## Application framework
 * [PRISM](https://github.com/PrismLibrary/Prism) - Prism is a framework for building loosely coupled, maintainable, and testable XAML applications in WPF, Windows 10 UWP, and Xamarin Forms.
