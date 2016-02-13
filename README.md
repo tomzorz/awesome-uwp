@@ -47,5 +47,9 @@ Contributions are welcome - any kind of library/software/resource is accepted. T
 * [ExpanderUWP](https://github.com/deanchalk/ExpanderUWP) - Expander Control for Microsoft UWP
 * [PullToRefreshXaml](https://github.com/JustinXinLiu/PullToRefreshUWP_WindowsComposition) - Pull to refresh with the new Windows Composition API.
 
+## Data
+
+* [BaseRestService](https://github.com/igorkulman/Kulman.WPA81.BaseRestService) - Base class for a REST service implementation simplifying communication with JSON based REST APIs.
+
 # Other Awesome Lists
 Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
