@@ -16,6 +16,7 @@ Contributions are welcome - any kind of library/software/resource is accepted. T
 * [PRISM](https://github.com/PrismLibrary/Prism) - Prism is a framework for building loosely coupled, maintainable, and testable XAML applications in WPF, Windows 10 UWP, and Xamarin Forms.
 
 ## Generic Library
+* [Kulman.UWP](https://github.com/igorkulman/Kulman.UWP) - Kulna.UWP is a collection of value converters, services and extensios for use in UWP projects.
 * [MyToolkit for .NET](https://github.com/MyToolkit/MyToolkit) - MyToolkit is a set of .NET libraries containing lots of useful classes for various .NET platforms like UWP/WinRT (Universal Windows Apps), Windows Phone and WPF. The goal is to provide missing or replace existing classes to support the development of high-quality Windows and Windows Phone applications.
 * [WinUX UWP](https://github.com/jamesmcroft/WinUX-UWP-Toolkit) - WinUX is a collection of XAML controls, value converters, behaviors, visual state triggers, extensions designed for use in UWP projects.
 
@@ -45,6 +46,10 @@ Contributions are welcome - any kind of library/software/resource is accepted. T
 ## XAML Controls
 * [ExpanderUWP](https://github.com/deanchalk/ExpanderUWP) - Expander Control for Microsoft UWP
 * [PullToRefreshXaml](https://github.com/JustinXinLiu/PullToRefreshUWP_WindowsComposition) - Pull to refresh with the new Windows Composition API.
+
+## Data
+
+* [BaseRestService](https://github.com/igorkulman/Kulman.WPA81.BaseRestService) - Base class for a REST service implementation simplifying communication with JSON based REST APIs.
 
 # Other Awesome Lists
 Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
