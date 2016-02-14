@@ -5,15 +5,21 @@ Contributions are welcome - any kind of library/software/resource is accepted. T
 
 * [Awesome UWP](#awesome-uwp)
     * [Application framework](#application-framework)
+    * [Data library](#data-library)
     * [Generic Library](#generic-library)
     * [IoT Library](#iot-library)
     * [MVVM](#mvvm)
+    * [Networking library](#networking-library)
     * [Template](#template)
     * [UI Library](#ui-library)
     * [XAML Controls](#xaml-controls)
 
 ## Application framework
 * [PRISM](https://github.com/PrismLibrary/Prism) - Prism is a framework for building loosely coupled, maintainable, and testable XAML applications in WPF, Windows 10 UWP, and Xamarin Forms.
+
+## Data library
+
+// feel free to add anything db related here ;)
 
 ## Generic Library
 * [Kulman.UWP](https://github.com/igorkulman/Kulman.UWP) - Kulna.UWP is a collection of value converters, services and extensios for use in UWP projects.
@@ -29,6 +35,10 @@ Contributions are welcome - any kind of library/software/resource is accepted. T
 * [MVVM Light Toolkit](https://mvvmlight.codeplex.com/) - The main purpose of the toolkit is to accelerate the creation and development of MVVM applications in WPF, Silverlight, Windows Store (RT) and for Windows Phone
 * [Okra App Framework](http://okraframework.github.io) - An app centric MVVM framework for Windows 8.1 built with dependency injection in mind, including a full set of Visual Studio MVVM templates.
 * [ReactiveUI](https://github.com/reactiveui/reactiveui/) - An MVVM framework for .NET that integrates the Reactive Extensions (Rx) framework, enabling developers to build elegant, testable applications using WPF, Windows Store Apps, WP8 or Xamarin.
+
+## Networking library
+
+* [BaseRestService](https://github.com/igorkulman/Kulman.WPA81.BaseRestService) - Base class for a REST service implementation simplifying communication with JSON based REST APIs.
 
 ## Template
 * [Template 10](https://github.com/Windows-XAML/Template10) - Template 10 is a set of Visual Studio project templates. They sling-shot developer productivity by getting ~80% of the boilerplate stuff delivered in the template - things like navigation, suspension, and even a Hamburger control. 
@@ -46,10 +56,6 @@ Contributions are welcome - any kind of library/software/resource is accepted. T
 ## XAML Controls
 * [ExpanderUWP](https://github.com/deanchalk/ExpanderUWP) - Expander Control for Microsoft UWP
 * [PullToRefreshXaml](https://github.com/JustinXinLiu/PullToRefreshUWP_WindowsComposition) - Pull to refresh with the new Windows Composition API.
-
-## Data
-
-* [BaseRestService](https://github.com/igorkulman/Kulman.WPA81.BaseRestService) - Base class for a REST service implementation simplifying communication with JSON based REST APIs.
 
 # Other Awesome Lists
 Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
