@@ -22,6 +22,7 @@ Contributions are welcome - any kind of library/software/resource is accepted. T
 // feel free to add anything db related here ;)
 
 ## Generic Library
+* [Cimbalino Toolkit](https://github.com/Cimbalino/Cimbalino-Toolkit) - Cimbalino Toolkit is a set of useful and powerful tools that will help you build your Windows Platform applications.
 * [Kulman.UWP](https://github.com/igorkulman/Kulman.UWP) - Kulna.UWP is a collection of value converters, services and extensios for use in UWP projects.
 * [MyToolkit for .NET](https://github.com/MyToolkit/MyToolkit) - MyToolkit is a set of .NET libraries containing lots of useful classes for various .NET platforms like UWP/WinRT (Universal Windows Apps), Windows Phone and WPF. The goal is to provide missing or replace existing classes to support the development of high-quality Windows and Windows Phone applications.
 * [WinUX UWP](https://github.com/jamesmcroft/WinUX-UWP-Toolkit) - WinUX is a collection of XAML controls, value converters, behaviors, visual state triggers, extensions designed for use in UWP projects.
