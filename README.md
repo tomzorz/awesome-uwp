@@ -58,6 +58,7 @@ Contributions are welcome - any kind of library/software/resource is accepted. T
 ## XAML Controls
 * [ExpanderUWP](https://github.com/deanchalk/ExpanderUWP) - Expander Control for Microsoft UWP
 * [PullToRefreshXaml](https://github.com/JustinXinLiu/PullToRefreshUWP_WindowsComposition) - Pull to refresh with the new Windows Composition API.
+* [SwipeListView](https://github.com/FrayxRulez/SwipeListView) - This repository contains a list with items swiping feature, like the one in new Outlook Mail app for Windows 10.
 
 # Other Awesome Lists
 Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
