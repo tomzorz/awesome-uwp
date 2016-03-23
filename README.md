@@ -19,7 +19,7 @@ Contributions are welcome - any kind of library/software/resource is accepted. T
 
 ## Data library
 
-// feel free to add anything db related here ;)
+* [Akavache](https://github.com/akavache/Akavache) - Akavache is an asynchronous, persistent (i.e. writes to disk) key-value store created for writing desktop and mobile applications in C#, based on SQLite3. Akavache is great for both storing important data (i.e. user settings) as well as cached local data that expires.
 
 ## Generic Library
 * [Cimbalino Toolkit](https://github.com/Cimbalino/Cimbalino-Toolkit) - Cimbalino Toolkit is a set of useful and powerful tools that will help you build your Windows Platform applications.
@@ -41,6 +41,7 @@ Contributions are welcome - any kind of library/software/resource is accepted. T
 ## Networking library
 
 * [BaseRestService](https://github.com/igorkulman/Kulman.WPA81.BaseRestService) - Base class for a REST service implementation simplifying communication with JSON based REST APIs.
+* [Refit](https://github.com/paulcbetts/refit) - Refit: The automatic type-safe REST library for Xamarin and .NET
 
 ## Template
 * [Template 10](https://github.com/Windows-XAML/Template10) - Template 10 is a set of Visual Studio project templates. They sling-shot developer productivity by getting ~80% of the boilerplate stuff delivered in the template - things like navigation, suspension, and even a Hamburger control. 
