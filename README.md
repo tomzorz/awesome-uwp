@@ -5,6 +5,7 @@ Contributions are welcome - any kind of library/software/resource is accepted. T
 
 * [Awesome UWP](#awesome-uwp)
     * [Application framework](#application-framework)
+    * [Audio library](#audio-library)
     * [Data library](#data-library)
     * [Generic Library](#generic-library)
     * [IoT Library](#iot-library)
@@ -17,6 +18,9 @@ Contributions are welcome - any kind of library/software/resource is accepted. T
 ## Application framework
 * [PRISM](https://github.com/PrismLibrary/Prism) - Prism is a framework for building loosely coupled, maintainable, and testable XAML applications in WPF, Windows 10 UWP, and Xamarin Forms.
 
+## Audio library
+* [Windows-10-MIDI-Library](https://github.com/Psychlist1972/Windows-10-MIDI-Library/) - Library for C# and other apps to use Windows 10 Anniversary Edition native MIDI (USB, bluetooth, etc.)
+
 ## Data library
 
 * [Akavache](https://github.com/akavache/Akavache) - Akavache is an asynchronous, persistent (i.e. writes to disk) key-value store created for writing desktop and mobile applications in C#, based on SQLite3. Akavache is great for both storing important data (i.e. user settings) as well as cached local data that expires.
@@ -25,6 +29,7 @@ Contributions are welcome - any kind of library/software/resource is accepted. T
 * [Cimbalino Toolkit](https://github.com/Cimbalino/Cimbalino-Toolkit) - Cimbalino Toolkit is a set of useful and powerful tools that will help you build your Windows Platform applications.
 * [Kulman.UWP](https://github.com/igorkulman/Kulman.UWP) - Kulna.UWP is a collection of value converters, services and extensios for use in UWP projects.
 * [MyToolkit for .NET](https://github.com/MyToolkit/MyToolkit) - MyToolkit is a set of .NET libraries containing lots of useful classes for various .NET platforms like UWP/WinRT (Universal Windows Apps), Windows Phone and WPF. The goal is to provide missing or replace existing classes to support the development of high-quality Windows and Windows Phone applications.
+* [Spectrum.Universal](https://github.com/nigel-sampson/spectrum) - Spectrum is a library to manipulate colours in the .NET framework, specifically in the RGB, HSL and HSV colour spaces.
 * [UWP Community Toolkit](https://github.com/Microsoft/UWPCommunityToolkit) - The UWP Community Toolkit is a collection of helper functions, custom controls, and app services. It simplifies and demonstrates common developer tasks building UWP apps for Windows 10.
 * [WinUX UWP](https://github.com/jamesmcroft/WinUX-UWP-Toolkit) - WinUX is a collection of XAML controls, value converters, behaviors, visual state triggers, extensions designed for use in UWP projects.
 
@@ -52,6 +57,7 @@ Contributions are welcome - any kind of library/software/resource is accepted. T
 * [Comet](https://github.com/nmetulev/comet) - Comet is an open source library for .NET/XAML Universal Windows Apps that attempts to fill the gaps and provide a collection of APIs and controls based on the feedback and work from the developer community.
 * [Composition Expression Toolkit](https://github.com/ratishphilip/CompositionExpressionToolkit) - CompositionExpressionToolkit is a collection of Extension methods and Helper classes which make it easier to use Windows.UI.Composition features. They include methods for creating statically typed CompositionAnimation expressions, CompositionPropertySet extension methods, helper methods for creating ScopedBatchSets etc. 
 * [Composition Pro Toolkit](https://github.com/ratishphilip/CompositionProToolkit) - CompositionProToolkit is a collection of helper classes for Windows.UI.Composition. It also contains controls which can be used in UWP applications. It has dependency on the Win2D and the CompositionExpressionToolkit libraries.
+* [Composition Surface Factory](https://github.com/robmikh/compositionsurfacefactory) - CompositionSurfaceFactory (formerly known as CompositionImageLoader) is a surface factory intended for use with the Windows.UI.Composition api based on Win2D and written in C++/CX. Don't worry, image loading still comes out of the box!
 * [Groves](https://github.com/tomzorz/Groves) - Groves is an open source UWP library containing Fake Markup Extensions, a better CollectionViewSource and other cool tidbits.
 * [Monolith](https://github.com/ThatLousyGuy/Monolith) - Monolith is a Windows library that lets you create animations in codebehind in a fluent, somewhat straightforward manner. It's a wrapper around the Windows.UI.Xaml.Media.Animation library that removes as much of the setup as possible.
 * [Official XAML Behaviors](https://github.com/Microsoft/XamlBehaviors) - XAML Behaviors is an easy-to-use means of adding common and reusable interactivity to your Windows UWP applications with minimal code. It is available for both native and managed applications.
