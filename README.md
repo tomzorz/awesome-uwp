@@ -62,6 +62,7 @@ Contributions are welcome - any kind of library/software/resource is accepted. T
 * [Monolith](https://github.com/ThatLousyGuy/Monolith) - Monolith is a Windows library that lets you create animations in codebehind in a fluent, somewhat straightforward manner. It's a wrapper around the Windows.UI.Xaml.Media.Animation library that removes as much of the setup as possible.
 * [Official XAML Behaviors](https://github.com/Microsoft/XamlBehaviors) - XAML Behaviors is an easy-to-use means of adding common and reusable interactivity to your Windows UWP applications with minimal code. It is available for both native and managed applications.
 * [Svg for Xaml Library](https://github.com/mntone/svgforxaml) - Draw images from svg file with Win2D.
+* [React-UWP](https://github.com/myxvisual/react-uwp) - A set of Microsoft's UWP Design & Fluent Design Web UI library.
 * [WindowsStateTriggers](https://github.com/dotMorten/WindowsStateTriggers) - WindowsStateTriggers is a collection of custom visual state triggers, including triggers such as DeviceFamilyStateTrigger, NetworkConnectionStateTrigger, RegexStateTrigger and more.
 * [UWP Helpers](https://github.com/LanceMcCarthy/UwpProjects) - A set of custom (e.g. BusyIndicators) and improved (e.g. AdaptiveGridView, NetworkImage) UI controls and specific-function utilities (e.g. IncrementalLoadingCollection) for building UWP apps.
 
