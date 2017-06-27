@@ -14,6 +14,7 @@ Contributions are welcome - any kind of library/software/resource is accepted. T
     * [Template](#template)
     * [UI Library](#ui-library)
     * [XAML Controls](#xaml-controls)
+    * [Web Library](#web-library)
 
 ## Application framework
 * [PRISM](https://github.com/PrismLibrary/Prism) - Prism is a framework for building loosely coupled, maintainable, and testable XAML applications in WPF, Windows 10 UWP, and Xamarin Forms.
@@ -22,16 +23,19 @@ Contributions are welcome - any kind of library/software/resource is accepted. T
 * [Windows-10-MIDI-Library](https://github.com/Psychlist1972/Windows-10-MIDI-Library/) - Library for C# and other apps to use Windows 10 Anniversary Edition native MIDI (USB, bluetooth, etc.)
 
 ## Data library
-
 * [Akavache](https://github.com/akavache/Akavache) - Akavache is an asynchronous, persistent (i.e. writes to disk) key-value store created for writing desktop and mobile applications in C#, based on SQLite3. Akavache is great for both storing important data (i.e. user settings) as well as cached local data that expires.
 
-## Generic Library
+## Generic library
 * [Cimbalino Toolkit](https://github.com/Cimbalino/Cimbalino-Toolkit) - Cimbalino Toolkit is a set of useful and powerful tools that will help you build your Windows Platform applications.
 * [Kulman.UWP](https://github.com/igorkulman/Kulman.UWP) - Kulna.UWP is a collection of value converters, services and extensios for use in UWP projects.
 * [MyToolkit for .NET](https://github.com/MyToolkit/MyToolkit) - MyToolkit is a set of .NET libraries containing lots of useful classes for various .NET platforms like UWP/WinRT (Universal Windows Apps), Windows Phone and WPF. The goal is to provide missing or replace existing classes to support the development of high-quality Windows and Windows Phone applications.
 * [Spectrum.Universal](https://github.com/nigel-sampson/spectrum) - Spectrum is a library to manipulate colours in the .NET framework, specifically in the RGB, HSL and HSV colour spaces.
 * [UWP Community Toolkit](https://github.com/Microsoft/UWPCommunityToolkit) - The UWP Community Toolkit is a collection of helper functions, custom controls, and app services. It simplifies and demonstrates common developer tasks building UWP apps for Windows 10.
 * [WinUX UWP](https://github.com/jamesmcroft/WinUX-UWP-Toolkit) - WinUX is a collection of XAML controls, value converters, behaviors, visual state triggers, extensions designed for use in UWP projects.
+
+## Graphics library
+* [Win2D](https://github.com/Microsoft/Win2D/) - Win2D is an easy-to-use Windows Runtime API for immediate mode 2D graphics rendering with GPU acceleration.
+* [WindowsUIDevLabs](https://github.com/Microsoft/WindowsUIDevLabs) - Windows UI Dev Labs the place for getting the latest code samples and demos using Windows.UI.Xaml and Windows.UI.Composition to make beautiful Universal Windows Platform applications.
 
 ## IoT Library
 * [BMP085 (I2C) .NET](https://github.com/baget/BMP085Dotnet) - An Universal (UWP) .NET library for BMP085 Sensor
@@ -50,7 +54,8 @@ Contributions are welcome - any kind of library/software/resource is accepted. T
 * [Refit](https://github.com/paulcbetts/refit) - Refit: The automatic type-safe REST library for Xamarin and .NET
 
 ## Template
-* [Template 10](https://github.com/Windows-XAML/Template10) - Template 10 is a set of Visual Studio project templates. They sling-shot developer productivity by getting ~80% of the boilerplate stuff delivered in the template - things like navigation, suspension, and even a Hamburger control. 
+* [Template 10](https://github.com/Windows-XAML/Template10) - Template 10 is a set of Visual Studio project templates. They sling-shot developer productivity by getting ~80% of the boilerplate stuff delivered in the template - things like navigation, suspension, and even a Hamburger control.
+* [Windows Template Studio](https://github.com/Microsoft/WindowsTemplateStudio) - Windows Template Studio quickly builds a UWP app, using a wizard-based UI to turn your needs into a foundation of Windows 10 patterns and best practices. 
 
 ## UI Library
 * [Adaptive Trigger Library](https://github.com/Herdo/AdaptiveTriggerLibrary) - Adaptive Trigger Library is another powerful collection of state triggers. It brings many interesting triggers such as latitude and longitude triggers, altitute trigger, power supply trigger, orientation trigger and more.
@@ -58,7 +63,7 @@ Contributions are welcome - any kind of library/software/resource is accepted. T
 * [Composition Expression Toolkit](https://github.com/ratishphilip/CompositionExpressionToolkit) - CompositionExpressionToolkit is a collection of Extension methods and Helper classes which make it easier to use Windows.UI.Composition features. They include methods for creating statically typed CompositionAnimation expressions, CompositionPropertySet extension methods, helper methods for creating ScopedBatchSets etc. 
 * [Composition Pro Toolkit](https://github.com/ratishphilip/CompositionProToolkit) - CompositionProToolkit is a collection of helper classes for Windows.UI.Composition. It also contains controls which can be used in UWP applications. It has dependency on the Win2D and the CompositionExpressionToolkit libraries.
 * [Composition Surface Factory](https://github.com/robmikh/compositionsurfacefactory) - CompositionSurfaceFactory (formerly known as CompositionImageLoader) is a surface factory intended for use with the Windows.UI.Composition api based on Win2D and written in C++/CX. Don't worry, image loading still comes out of the box!
-* [Groves](https://github.com/tomzorz/Groves) - Groves is an open source UWP library containing Fake Markup Extensions, a better CollectionViewSource and other cool tidbits.
+* [Continuity](https://github.com/JustinXinLiu/Continuity) - A project that aims to provide some cool animations, transitions and controls, built on top of the new Windows Composition API.
 * [Monolith](https://github.com/ThatLousyGuy/Monolith) - Monolith is a Windows library that lets you create animations in codebehind in a fluent, somewhat straightforward manner. It's a wrapper around the Windows.UI.Xaml.Media.Animation library that removes as much of the setup as possible.
 * [Official XAML Behaviors](https://github.com/Microsoft/XamlBehaviors) - XAML Behaviors is an easy-to-use means of adding common and reusable interactivity to your Windows UWP applications with minimal code. It is available for both native and managed applications.
 * [Svg for Xaml Library](https://github.com/mntone/svgforxaml) - Draw images from svg file with Win2D.
