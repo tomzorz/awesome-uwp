@@ -62,7 +62,6 @@ Contributions are welcome - any kind of library/software/resource is accepted. T
 * [Monolith](https://github.com/ThatLousyGuy/Monolith) - Monolith is a Windows library that lets you create animations in codebehind in a fluent, somewhat straightforward manner. It's a wrapper around the Windows.UI.Xaml.Media.Animation library that removes as much of the setup as possible.
 * [Official XAML Behaviors](https://github.com/Microsoft/XamlBehaviors) - XAML Behaviors is an easy-to-use means of adding common and reusable interactivity to your Windows UWP applications with minimal code. It is available for both native and managed applications.
 * [Svg for Xaml Library](https://github.com/mntone/svgforxaml) - Draw images from svg file with Win2D.
-* [React-UWP](https://github.com/myxvisual/react-uwp) - A set of Microsoft's UWP Design & Fluent Design Web UI library.
 * [WindowsStateTriggers](https://github.com/dotMorten/WindowsStateTriggers) - WindowsStateTriggers is a collection of custom visual state triggers, including triggers such as DeviceFamilyStateTrigger, NetworkConnectionStateTrigger, RegexStateTrigger and more.
 * [UWP Helpers](https://github.com/LanceMcCarthy/UwpProjects) - A set of custom (e.g. BusyIndicators) and improved (e.g. AdaptiveGridView, NetworkImage) UI controls and specific-function utilities (e.g. IncrementalLoadingCollection) for building UWP apps.
 
@@ -70,6 +69,9 @@ Contributions are welcome - any kind of library/software/resource is accepted. T
 * [ExpanderUWP](https://github.com/deanchalk/ExpanderUWP) - Expander Control for Microsoft UWP
 * [PullToRefreshXaml](https://github.com/JustinXinLiu/PullToRefreshUWP_WindowsComposition) - Pull to refresh with the new Windows Composition API.
 * [SwipeListView](https://github.com/FrayxRulez/SwipeListView) - This repository contains a list with items swiping feature, like the one in new Outlook Mail app for Windows 10.
+
+## Web Library
+* [React-UWP](https://github.com/myxvisual/react-uwp) - A set React components that match Microsoft's UWP Design & Fluent Design.
 
 # Other Awesome Lists
 Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
