@@ -76,6 +76,7 @@ Contributions are welcome - any kind of library/software/resource is accepted. T
 * [ExpanderUWP](https://github.com/deanchalk/ExpanderUWP) - Expander Control for Microsoft UWP
 * [PullToRefreshXaml](https://github.com/JustinXinLiu/PullToRefreshUWP_WindowsComposition) - Pull to refresh with the new Windows Composition API.
 * [SwipeListView](https://github.com/FrayxRulez/SwipeListView) - This repository contains a list with items swiping feature, like the one in new Outlook Mail app for Windows 10.
+* [UWPChipsX](https://github.com/yazdipour/UWPChipsX) - UWP Chips Control repository with its nuget package.
 
 ## Web Library
 * [React-UWP](https://github.com/myxvisual/react-uwp) - A set React components that match Microsoft's UWP Design & Fluent Design.
