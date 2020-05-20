@@ -71,6 +71,7 @@ Contributions are welcome - any kind of library/software/resource is accepted. T
 * [WindowsStateTriggers](https://github.com/dotMorten/WindowsStateTriggers) - WindowsStateTriggers is a collection of custom visual state triggers, including triggers such as DeviceFamilyStateTrigger, NetworkConnectionStateTrigger, RegexStateTrigger and more.
 * [UWP Helpers](https://github.com/LanceMcCarthy/UwpProjects) - A set of custom (e.g. BusyIndicators) and improved (e.g. AdaptiveGridView, NetworkImage) UI controls and specific-function utilities (e.g. IncrementalLoadingCollection) for building UWP apps.
 * [UWP Styles Library](https://github.com/Raamakrishnan/UWP-Styles-Library) Just a collection of some cool styles that you can just add on to your next UWP project!
+* [Xaml Controls Gallery](https://github.com/microsoft/Xaml-Controls-Gallery) Demonstrates the controls available in WinUI and the Fluent Design System.
 
 ## XAML Control
 * [ExpanderUWP](https://github.com/deanchalk/ExpanderUWP) - Expander Control for Microsoft UWP
