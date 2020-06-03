@@ -30,7 +30,7 @@ Contributions are welcome - any kind of library/software/resource is accepted. T
 * [Kulman.UWP](https://github.com/igorkulman/Kulman.UWP) - Kulna.UWP is a collection of value converters, services and extensios for use in UWP projects.
 * [MyToolkit for .NET](https://github.com/MyToolkit/MyToolkit) - MyToolkit is a set of .NET libraries containing lots of useful classes for various .NET platforms like UWP/WinRT (Universal Windows Apps), Windows Phone and WPF. The goal is to provide missing or replace existing classes to support the development of high-quality Windows and Windows Phone applications.
 * [Spectrum.Universal](https://github.com/nigel-sampson/spectrum) - Spectrum is a library to manipulate colours in the .NET framework, specifically in the RGB, HSL and HSV colour spaces.
-* [UWP Community Toolkit](https://github.com/Microsoft/UWPCommunityToolkit) - The UWP Community Toolkit is a collection of helper functions, custom controls, and app services. It simplifies and demonstrates common developer tasks building UWP apps for Windows 10.
+* [Windows Community Toolkit](https://github.com/windows-toolkit/WindowsCommunityToolkit) - The Windows Community Toolkit is a collection of helper functions, custom controls, and app services. It simplifies and demonstrates common developer tasks building UWP and .NET apps for Windows 10.
 * [WinUX UWP](https://github.com/jamesmcroft/WinUX-UWP-Toolkit) - WinUX is a collection of XAML controls, value converters, behaviors, visual state triggers, extensions designed for use in UWP projects.
 
 ## Graphics library
@@ -68,6 +68,7 @@ Contributions are welcome - any kind of library/software/resource is accepted. T
 * [Monolith](https://github.com/ThatLousyGuy/Monolith) - Monolith is a Windows library that lets you create animations in codebehind in a fluent, somewhat straightforward manner. It's a wrapper around the Windows.UI.Xaml.Media.Animation library that removes as much of the setup as possible.
 * [Official XAML Behaviors](https://github.com/Microsoft/XamlBehaviors) - XAML Behaviors is an easy-to-use means of adding common and reusable interactivity to your Windows UWP applications with minimal code. It is available for both native and managed applications.
 * [Svg for Xaml Library](https://github.com/mntone/svgforxaml) - Draw images from svg file with Win2D.
+* [Windows Community Toolkit Sample App](https://aka.ms/windowstoolkitapp) - Demonstrates the controls available in the Windows Community Toolkit library.
 * [WindowsStateTriggers](https://github.com/dotMorten/WindowsStateTriggers) - WindowsStateTriggers is a collection of custom visual state triggers, including triggers such as DeviceFamilyStateTrigger, NetworkConnectionStateTrigger, RegexStateTrigger and more.
 * [UWP Helpers](https://github.com/LanceMcCarthy/UwpProjects) - A set of custom (e.g. BusyIndicators) and improved (e.g. AdaptiveGridView, NetworkImage) UI controls and specific-function utilities (e.g. IncrementalLoadingCollection) for building UWP apps.
 * [UWP Styles Library](https://github.com/Raamakrishnan/UWP-Styles-Library) Just a collection of some cool styles that you can just add on to your next UWP project!
